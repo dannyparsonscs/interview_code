@@ -1,0 +1,1502 @@
+[
+  {
+    "firstName": "Lamar",
+    "lastName": "Alexander",
+    "fullName": "Lamar Alexander",
+    "chartId": "A000360",
+    "mobile": "(202) 224-4944",
+    "address": [
+      {
+        "street": "455 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tammy",
+    "lastName": "Baldwin",
+    "fullName": "Tammy Baldwin",
+    "chartId": "B001230",
+    "mobile": "(202) 224-5653",
+    "address": [
+      {
+        "street": "709 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Barrasso",
+    "fullName": "John Barrasso",
+    "chartId": "B001261",
+    "mobile": "(202) 224-6441",
+    "address": [
+      {
+        "street": "307 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Michael F.",
+    "lastName": "Bennet",
+    "fullName": "Michael F. Bennet",
+    "chartId": "B001267",
+    "mobile": "(202) 224-5852",
+    "address": [
+      {
+        "street": "261 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Marsha",
+    "lastName": "Blackburn",
+    "fullName": "Marsha Blackburn",
+    "chartId": "B001243",
+    "mobile": "(202) 224-3344",
+    "address": [
+      {
+        "street": "357 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Blumenthal",
+    "fullName": "Richard Blumenthal",
+    "chartId": "B001277",
+    "mobile": "(202) 224-2823",
+    "address": [
+      {
+        "street": "706 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Blunt",
+    "fullName": "Roy Blunt",
+    "chartId": "B000575",
+    "mobile": "(202) 224-5721",
+    "address": [
+      {
+        "street": "260 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Cory A.",
+    "lastName": "Booker",
+    "fullName": "Cory A. Booker",
+    "chartId": "B001288",
+    "mobile": "(202) 224-3224",
+    "address": [
+      {
+        "street": "717 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Boozman",
+    "fullName": "John Boozman",
+    "chartId": "B001236",
+    "mobile": "(202) 224-4843",
+    "address": [
+      {
+        "street": "141 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Braun",
+    "fullName": "Mike Braun",
+    "chartId": "B001310",
+    "mobile": "(202) 224-4814",
+    "address": [
+      {
+        "street": "374 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Sherrod",
+    "lastName": "Brown",
+    "fullName": "Sherrod Brown",
+    "chartId": "B000944",
+    "mobile": "(202) 224-2315",
+    "address": [
+      {
+        "street": "503 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Burr",
+    "fullName": "Richard Burr",
+    "chartId": "B001135",
+    "mobile": "(202) 224-3154",
+    "address": [
+      {
+        "street": "217 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Cantwell",
+    "fullName": "Maria Cantwell",
+    "chartId": "C000127",
+    "mobile": "(202) 224-3441",
+    "address": [
+      {
+        "street": "511 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Shelley Moore",
+    "lastName": "Capito",
+    "fullName": "Shelley Moore Capito",
+    "chartId": "C001047",
+    "mobile": "(202) 224-6472",
+    "address": [
+      {
+        "street": "172 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Benjamin L.",
+    "lastName": "Cardin",
+    "fullName": "Benjamin L. Cardin",
+    "chartId": "C000141",
+    "mobile": "(202) 224-4524",
+    "address": [
+      {
+        "street": "509 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Thomas R.",
+    "lastName": "Carper",
+    "fullName": "Thomas R. Carper",
+    "chartId": "C000174",
+    "mobile": "(202) 224-2441",
+    "address": [
+      {
+        "street": "513 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Robert P., Jr.",
+    "lastName": "Casey",
+    "fullName": "Robert P., Jr. Casey",
+    "chartId": "C001070",
+    "mobile": "(202) 224-6324",
+    "address": [
+      {
+        "street": "393 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Cassidy",
+    "fullName": "Bill Cassidy",
+    "chartId": "C001075",
+    "mobile": "(202) 224-5824",
+    "address": [
+      {
+        "street": "520 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Susan M.",
+    "lastName": "Collins",
+    "fullName": "Susan M. Collins",
+    "chartId": "C001035",
+    "mobile": "(202) 224-2523",
+    "address": [
+      {
+        "street": "413 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Christopher A.",
+    "lastName": "Coons",
+    "fullName": "Christopher A. Coons",
+    "chartId": "C001088",
+    "mobile": "(202) 224-5042",
+    "address": [
+      {
+        "street": "218 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Cornyn",
+    "fullName": "John Cornyn",
+    "chartId": "C001056",
+    "mobile": "(202) 224-2934",
+    "address": [
+      {
+        "street": "517 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Catherine",
+    "lastName": "Cortez Masto",
+    "fullName": "Catherine Cortez Masto",
+    "chartId": "C001113",
+    "mobile": "(202) 224-3542",
+    "address": [
+      {
+        "street": "516 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Cotton",
+    "fullName": "Tom Cotton",
+    "chartId": "C001095",
+    "mobile": "(202) 224-2353",
+    "address": [
+      {
+        "street": "326 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Cramer",
+    "fullName": "Kevin Cramer",
+    "chartId": "C001096",
+    "mobile": "(202) 224-2043",
+    "address": [
+      {
+        "street": "400 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Crapo",
+    "fullName": "Mike Crapo",
+    "chartId": "C000880",
+    "mobile": "(202) 224-6142",
+    "address": [
+      {
+        "street": "239 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Cruz",
+    "fullName": "Ted Cruz",
+    "chartId": "C001098",
+    "mobile": "(202) 224-5922",
+    "address": [
+      {
+        "street": "127A Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Daines",
+    "fullName": "Steve Daines",
+    "chartId": "D000618",
+    "mobile": "(202) 224-2651",
+    "address": [
+      {
+        "street": "320 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tammy",
+    "lastName": "Duckworth",
+    "fullName": "Tammy Duckworth",
+    "chartId": "D000622",
+    "mobile": "(202) 224-2854",
+    "address": [
+      {
+        "street": "524 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Richard J.",
+    "lastName": "Durbin",
+    "fullName": "Richard J. Durbin",
+    "chartId": "D000563",
+    "mobile": "(202) 224-2152",
+    "address": [
+      {
+        "street": "711 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Michael B.",
+    "lastName": "Enzi",
+    "fullName": "Michael B. Enzi",
+    "chartId": "E000285",
+    "mobile": "(202) 224-3424",
+    "address": [
+      {
+        "street": "379A Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Joni",
+    "lastName": "Ernst",
+    "fullName": "Joni Ernst",
+    "chartId": "E000295",
+    "mobile": "(202) 224-3254",
+    "address": [
+      {
+        "street": "730 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Dianne",
+    "lastName": "Feinstein",
+    "fullName": "Dianne Feinstein",
+    "chartId": "F000062",
+    "mobile": "(202) 224-3841",
+    "address": [
+      {
+        "street": "331 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Deb",
+    "lastName": "Fischer",
+    "fullName": "Deb Fischer",
+    "chartId": "F000463",
+    "mobile": "(202) 224-6551",
+    "address": [
+      {
+        "street": "454 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Cory",
+    "lastName": "Gardner",
+    "fullName": "Cory Gardner",
+    "chartId": "G000562",
+    "mobile": "(202) 224-5941",
+    "address": [
+      {
+        "street": "354 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Kirsten E.",
+    "lastName": "Gillibrand",
+    "fullName": "Kirsten E. Gillibrand",
+    "chartId": "G000555",
+    "mobile": "(202) 224-4451",
+    "address": [
+      {
+        "street": "478 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Lindsey",
+    "lastName": "Graham",
+    "fullName": "Lindsey Graham",
+    "chartId": "G000359",
+    "mobile": "(202) 224-5972",
+    "address": [
+      {
+        "street": "290 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Chuck",
+    "lastName": "Grassley",
+    "fullName": "Chuck Grassley",
+    "chartId": "G000386",
+    "mobile": "(202) 224-3744",
+    "address": [
+      {
+        "street": "135 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Kamala D.",
+    "lastName": "Harris",
+    "fullName": "Kamala D. Harris",
+    "chartId": "H001075",
+    "mobile": "(202) 224-3553",
+    "address": [
+      {
+        "street": "112 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Margaret Wood",
+    "lastName": "Hassan",
+    "fullName": "Margaret Wood Hassan",
+    "chartId": "H001076",
+    "mobile": "(202) 224-3324",
+    "address": [
+      {
+        "street": "324 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Hawley",
+    "fullName": "Josh Hawley",
+    "chartId": "H001089",
+    "mobile": "(202) 224-6154",
+    "address": [
+      {
+        "street": "212 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Heinrich",
+    "fullName": "Martin Heinrich",
+    "chartId": "H001046",
+    "mobile": "(202) 224-5521",
+    "address": [
+      {
+        "street": "303 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mazie K.",
+    "lastName": "Hirono",
+    "fullName": "Mazie K. Hirono",
+    "chartId": "H001042",
+    "mobile": "(202) 224-6361",
+    "address": [
+      {
+        "street": "713 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Hoeven",
+    "fullName": "John Hoeven",
+    "chartId": "H001061",
+    "mobile": "(202) 224-2551",
+    "address": [
+      {
+        "street": "338 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Cindy",
+    "lastName": "Hyde-Smith",
+    "fullName": "Cindy Hyde-Smith",
+    "chartId": "H001079",
+    "mobile": "(202) 224-5054",
+    "address": [
+      {
+        "street": "702 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "James M.",
+    "lastName": "Inhofe",
+    "fullName": "James M. Inhofe",
+    "chartId": "I000024",
+    "mobile": "(202) 224-4721",
+    "address": [
+      {
+        "street": "205 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Johnson",
+    "fullName": "Ron Johnson",
+    "chartId": "J000293",
+    "mobile": "(202) 224-5323",
+    "address": [
+      {
+        "street": "328 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Doug",
+    "lastName": "Jones",
+    "fullName": "Doug Jones",
+    "chartId": "J000300",
+    "mobile": "(202) 224-4124",
+    "address": [
+      {
+        "street": "330 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Kaine",
+    "fullName": "Tim Kaine",
+    "chartId": "K000384",
+    "mobile": "(202) 224-4024",
+    "address": [
+      {
+        "street": "231 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Kelly",
+    "fullName": "Mark Kelly",
+    "chartId": "K000377",
+    "mobile": "202-224-2235",
+    "address": [
+      {
+        "street": "B40B Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Kennedy",
+    "fullName": "John Kennedy",
+    "chartId": "K000393",
+    "mobile": "(202) 224-4623",
+    "address": [
+      {
+        "street": "416 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Angus S., Jr.",
+    "lastName": "King",
+    "fullName": "Angus S., Jr. King",
+    "chartId": "K000383",
+    "mobile": "(202) 224-5344",
+    "address": [
+      {
+        "street": "133 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Klobuchar",
+    "fullName": "Amy Klobuchar",
+    "chartId": "K000367",
+    "mobile": "(202) 224-3244",
+    "address": [
+      {
+        "street": "425 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Lankford",
+    "fullName": "James Lankford",
+    "chartId": "L000575",
+    "mobile": "(202) 224-5754",
+    "address": [
+      {
+        "street": "316 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Patrick J.",
+    "lastName": "Leahy",
+    "fullName": "Patrick J. Leahy",
+    "chartId": "L000174",
+    "mobile": "(202) 224-4242",
+    "address": [
+      {
+        "street": "437 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Lee",
+    "fullName": "Mike Lee",
+    "chartId": "L000577",
+    "mobile": "(202) 224-5444",
+    "address": [
+      {
+        "street": "361A Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Loeffler",
+    "fullName": "Kelly Loeffler",
+    "chartId": "L000594",
+    "mobile": "(202) 224-3643",
+    "address": [
+      {
+        "street": "131 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Joe, III",
+    "lastName": "Manchin",
+    "fullName": "Joe, III Manchin",
+    "chartId": "M001183",
+    "mobile": "(202) 224-3954",
+    "address": [
+      {
+        "street": "306 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Edward J.",
+    "lastName": "Markey",
+    "fullName": "Edward J. Markey",
+    "chartId": "M000133",
+    "mobile": "(202) 224-2742",
+    "address": [
+      {
+        "street": "255 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mitch",
+    "lastName": "McConnell",
+    "fullName": "Mitch McConnell",
+    "chartId": "M000355",
+    "mobile": "(202) 224-2541",
+    "address": [
+      {
+        "street": "317 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Menendez",
+    "fullName": "Robert Menendez",
+    "chartId": "M000639",
+    "mobile": "(202) 224-4744",
+    "address": [
+      {
+        "street": "528 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Merkley",
+    "fullName": "Jeff Merkley",
+    "chartId": "M001176",
+    "mobile": "(202) 224-3753",
+    "address": [
+      {
+        "street": "313 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Moran",
+    "fullName": "Jerry Moran",
+    "chartId": "M000934",
+    "mobile": "(202) 224-6521",
+    "address": [
+      {
+        "street": "521 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Murkowski",
+    "fullName": "Lisa Murkowski",
+    "chartId": "M001153",
+    "mobile": "(202) 224-6665",
+    "address": [
+      {
+        "street": "522 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Murphy",
+    "fullName": "Christopher Murphy",
+    "chartId": "M001169",
+    "mobile": "(202) 224-4041",
+    "address": [
+      {
+        "street": "136 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Patty",
+    "lastName": "Murray",
+    "fullName": "Patty Murray",
+    "chartId": "M001111",
+    "mobile": "(202) 224-2621",
+    "address": [
+      {
+        "street": "154 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Rand",
+    "lastName": "Paul",
+    "fullName": "Rand Paul",
+    "chartId": "P000603",
+    "mobile": "(202) 224-4343",
+    "address": [
+      {
+        "street": "167 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Perdue",
+    "fullName": "David Perdue",
+    "chartId": "P000612",
+    "mobile": "(202) 224-3521",
+    "address": [
+      {
+        "street": "455 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Gary C.",
+    "lastName": "Peters",
+    "fullName": "Gary C. Peters",
+    "chartId": "P000595",
+    "mobile": "(202) 224-6221",
+    "address": [
+      {
+        "street": "724 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Rob",
+    "lastName": "Portman",
+    "fullName": "Rob Portman",
+    "chartId": "P000449",
+    "mobile": "(202) 224-3353",
+    "address": [
+      {
+        "street": "448 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Reed",
+    "fullName": "Jack Reed",
+    "chartId": "R000122",
+    "mobile": "(202) 224-4642",
+    "address": [
+      {
+        "street": "728 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "James E.",
+    "lastName": "Risch",
+    "fullName": "James E. Risch",
+    "chartId": "R000584",
+    "mobile": "(202) 224-2752",
+    "address": [
+      {
+        "street": "483 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Pat",
+    "lastName": "Roberts",
+    "fullName": "Pat Roberts",
+    "chartId": "R000307",
+    "mobile": "(202) 224-4774",
+    "address": [
+      {
+        "street": "109 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mitt",
+    "lastName": "Romney",
+    "fullName": "Mitt Romney",
+    "chartId": "R000615",
+    "mobile": "(202) 224-5251",
+    "address": [
+      {
+        "street": "124 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Jacky",
+    "lastName": "Rosen",
+    "fullName": "Jacky Rosen",
+    "chartId": "R000608",
+    "mobile": "(202) 224-6244",
+    "address": [
+      {
+        "street": "144 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Rounds",
+    "fullName": "Mike Rounds",
+    "chartId": "R000605",
+    "mobile": "(202) 224-5842",
+    "address": [
+      {
+        "street": "502 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Rubio",
+    "fullName": "Marco Rubio",
+    "chartId": "R000595",
+    "mobile": "(202) 224-3041",
+    "address": [
+      {
+        "street": "284 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Sanders",
+    "fullName": "Bernard Sanders",
+    "chartId": "S000033",
+    "mobile": "(202) 224-5141",
+    "address": [
+      {
+        "street": "332 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Sasse",
+    "fullName": "Ben Sasse",
+    "chartId": "S001197",
+    "mobile": "(202) 224-4224",
+    "address": [
+      {
+        "street": "107 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Schatz",
+    "fullName": "Brian Schatz",
+    "chartId": "S001194",
+    "mobile": "(202) 224-3934",
+    "address": [
+      {
+        "street": "722 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Charles E.",
+    "lastName": "Schumer",
+    "fullName": "Charles E. Schumer",
+    "chartId": "S000148",
+    "mobile": "(202) 224-6542",
+    "address": [
+      {
+        "street": "322 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Scott",
+    "fullName": "Rick Scott",
+    "chartId": "S001217",
+    "mobile": "(202) 224-5274",
+    "address": [
+      {
+        "street": "716 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Scott",
+    "fullName": "Tim Scott",
+    "chartId": "S001184",
+    "mobile": "(202) 224-6121",
+    "address": [
+      {
+        "street": "104 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Shaheen",
+    "fullName": "Jeanne Shaheen",
+    "chartId": "S001181",
+    "mobile": "(202) 224-2841",
+    "address": [
+      {
+        "street": "506 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Richard C.",
+    "lastName": "Shelby",
+    "fullName": "Richard C. Shelby",
+    "chartId": "S000320",
+    "mobile": "(202) 224-5744",
+    "address": [
+      {
+        "street": "304 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Kyrsten",
+    "lastName": "Sinema",
+    "fullName": "Kyrsten Sinema",
+    "chartId": "S001191",
+    "mobile": "(202) 224-4521",
+    "address": [
+      {
+        "street": "317 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Smith",
+    "fullName": "Tina Smith",
+    "chartId": "S001203",
+    "mobile": "(202) 224-5641",
+    "address": [
+      {
+        "street": "720 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Debbie",
+    "lastName": "Stabenow",
+    "fullName": "Debbie Stabenow",
+    "chartId": "S000770",
+    "mobile": "(202) 224-4822",
+    "address": [
+      {
+        "street": "731 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Sullivan",
+    "fullName": "Dan Sullivan",
+    "chartId": "S001198",
+    "mobile": "(202) 224-3004",
+    "address": [
+      {
+        "street": "302 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Tester",
+    "fullName": "Jon Tester",
+    "chartId": "T000464",
+    "mobile": "(202) 224-2644",
+    "address": [
+      {
+        "street": "311 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Thune",
+    "fullName": "John Thune",
+    "chartId": "T000250",
+    "mobile": "(202) 224-2321",
+    "address": [
+      {
+        "street": "511 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Thom",
+    "lastName": "Tillis",
+    "fullName": "Thom Tillis",
+    "chartId": "T000476",
+    "mobile": "(202) 224-6342",
+    "address": [
+      {
+        "street": "113 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Patrick J.",
+    "lastName": "Toomey",
+    "fullName": "Patrick J. Toomey",
+    "chartId": "T000461",
+    "mobile": "(202) 224-4254",
+    "address": [
+      {
+        "street": "248 Russell Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Udall",
+    "fullName": "Tom Udall",
+    "chartId": "U000039",
+    "mobile": "(202) 224-6621",
+    "address": [
+      {
+        "street": "531 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Van Hollen",
+    "fullName": "Chris Van Hollen",
+    "chartId": "V000128",
+    "mobile": "(202) 224-4654",
+    "address": [
+      {
+        "street": "110 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Mark R.",
+    "lastName": "Warner",
+    "fullName": "Mark R. Warner",
+    "chartId": "W000805",
+    "mobile": "(202) 224-2023",
+    "address": [
+      {
+        "street": "703 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Warren",
+    "fullName": "Elizabeth Warren",
+    "chartId": "W000817",
+    "mobile": "(202) 224-4543",
+    "address": [
+      {
+        "street": "309 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Sheldon",
+    "lastName": "Whitehouse",
+    "fullName": "Sheldon Whitehouse",
+    "chartId": "W000802",
+    "mobile": "(202) 224-2921",
+    "address": [
+      {
+        "street": "530 Hart Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Roger F.",
+    "lastName": "Wicker",
+    "fullName": "Roger F. Wicker",
+    "chartId": "W000437",
+    "mobile": "(202) 224-6253",
+    "address": [
+      {
+        "street": "555 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Wyden",
+    "fullName": "Ron Wyden",
+    "chartId": "W000779",
+    "mobile": "(202) 224-5244",
+    "address": [
+      {
+        "street": "221 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Young",
+    "fullName": "Todd Young",
+    "chartId": "Y000064",
+    "mobile": "(202) 224-5623",
+    "address": [
+      {
+        "street": "185 Dirksen Senate Office Building",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "postal": "20510"
+      }
+    ]
+  }
+]
