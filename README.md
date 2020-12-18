@@ -18,11 +18,11 @@ the JSON format listed below.​
 
 ## How To Run
 1. Clone repo into a directory on a computer with Python 3.8 installed
-1. CD into the directory with command terminal
+1. Use pip3 to install the requests module if necessary (`pip3 install requests` globally, `pip3 install requests -t .` locally)
+1. CD into the interview_code directory with the command terminal
 1. Run 'python3 danny_parsons_test.py'
 
-Console output is the JSON.
-
+Console output is the converted data.
 
 ## Code
 The code in danny_parsons_test.py is broken down into the following functions:
